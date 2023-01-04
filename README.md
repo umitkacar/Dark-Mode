@@ -1,5 +1,9 @@
 # Dark-Mode
 
+### Dark Reader
+
+https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en
+
 ### Google Chrome
 
 - chrome://flags in the url
